@@ -13,20 +13,19 @@ I'm a frontend developer passionate about crafting beautiful and functional web 
 
 Check out my Portfolio (WIP):
 
-- https://jakobstoeber.vercel.app/
+- [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
 - projects are not implemented yet
 
 ## Social
 
 Connect with me on social media:
 
-- **LinkedIn** https://www.linkedin.com/in/jakob-stöber/
-- **Leetcode** https://leetcode.com/user0160qG/
-- 
+- **LinkedIn:** <a href="https://www.linkedin.com/in/jakob-stöber/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
+- **Leetcode:** <a href="https://leetcode.com/user0160qG/" style="text-decoration: none; color: #ff9642;">Leetcode</a>
 
 ## Get in Touch
 
 I'm always open to work together or just a friendly chat. Feel free to reach out:
 
-- **Email:** jasperlp.stoeber@gmail.com
-- **Website:** https://jakobstoeber.vercel.app/
+- **Email:** [jasperlp.stoeber@gmail.com](mailto:jasperlp.stoeber@gmail.com)
+- **Website:** [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
