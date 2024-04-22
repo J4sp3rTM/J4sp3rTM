@@ -30,3 +30,5 @@ I'm always open to work together or just a friendly chat. Feel free to reach out
 - **Email:** [jasperlp.stoeber@gmail.com](mailto:jasperlp.stoeber@gmail.com)
 - **Website:** [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
 
+![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4sp3rTM&show_icons=true&theme=radical)
+
