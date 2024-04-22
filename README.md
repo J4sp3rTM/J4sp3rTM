@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jakob Stöber</h1>
-<h3 align="center">A passionate fullstack developer from Germany</h3>
+# Hi there! 👋 I'm [Jakob Stöber]
 
-- 🔭 I’m currently working on **Codify, a Discord Bot**
+I'm a frontend developer passionate about crafting beautiful and functional web experiences. Based in Germany, I specialize in HTML, CSS, and JavaScript, with knowledge in various frameworks. I'm also proficient in Java and Python, enabling me to create dynamic and versatile applications.
 
-- 🌱 I’m currently learning **Flutter and Network Structure**
+## Skills
 
-- 💬 Ask me about **html, css, js and python**
+- **Languages:** HTML, CSS, JavaScript, Java, Python
+- **Frameworks:** Angular, Bootstrap
+- **Design Tools:** Figma
+- **Other:** currently learning Flutter
 
-- 📫 How to reach me **jasperlp.stoeber@gmail.com**
+## Portfolio
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jakob-stöber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakob-stöber" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user0160qg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0160qg" height="30" width="40" /></a>
-</p>
+Check out my Portfolio (WIP):
 
-<h3 align="left">Languages and Tools:</h3>
+- https://jakobstoeber.vercel.app/
+- projects are not implemented yet
+
+## Social
+
+Connect with me on social media:
+
+- [LinkedIn]((https://www.linkedin.com/in/jakob-stöber/)
+- [LinkedIn](https://leetcode.com/user0160qG/)
+- 
+
+## Get in Touch
+
+I'm always open to work together or just a friendly chat. Feel free to reach out:
+
+- Email: [jasperlp.stoeber@gmail.com]
+- Website: [https://jakobstoeber.vercel.app/]
