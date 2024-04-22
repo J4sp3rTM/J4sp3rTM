@@ -30,5 +30,3 @@ I'm always open to work together or just a friendly chat. Feel free to reach out
 - **Email:** [jasperlp.stoeber@gmail.com](mailto:jasperlp.stoeber@gmail.com)
 - **Website:** [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
 
-
-![snake animation](https://github.com/J4sp3rTM/blob/output/github-contribution-grid-snake2.svg)
