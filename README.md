@@ -32,5 +32,5 @@ I'm always open to work together or just a friendly chat. Feel free to reach out
 
 #
 
-![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4sp3rTM&show_icons=true&theme=radical&include_all_commits=false)
+![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4sp3rTM&show_icons=true&theme=shadow_green&include_all_commits=false)
 
