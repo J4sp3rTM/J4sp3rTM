@@ -20,13 +20,13 @@ Check out my Portfolio (WIP):
 
 Connect with me on social media:
 
-- [LinkedIn]((https://www.linkedin.com/in/jakob-stöber/)
-- [LinkedIn](https://leetcode.com/user0160qG/)
+- **LinkedIn** https://www.linkedin.com/in/jakob-stöber/
+- **Leetcode** https://leetcode.com/user0160qG/
 - 
 
 ## Get in Touch
 
 I'm always open to work together or just a friendly chat. Feel free to reach out:
 
-- Email: [jasperlp.stoeber@gmail.com]
-- Website: [https://jakobstoeber.vercel.app/]
+- **Email:** jasperlp.stoeber@gmail.com
+- **Website:** https://jakobstoeber.vercel.app/
