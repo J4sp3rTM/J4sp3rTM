@@ -20,8 +20,8 @@ Check out my Portfolio (WIP):
 
 Connect with me on social media:
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/jakob-stöber/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
-- **Leetcode:** <a href="https://leetcode.com/user0160qG/" style="text-decoration: none; color: #ff9642;">Leetcode</a>
+- **LinkedIn:** <span style="color:#0077b5;">[LinkedIn](https://www.linkedin.com/in/jakob-stöber/)</span>
+- **Leetcode:** <span style="color:#ff9642;">[Leetcode](https://leetcode.com/user0160qG/)</span>
 
 ## Get in Touch
 
