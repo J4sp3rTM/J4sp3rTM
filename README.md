@@ -18,10 +18,9 @@ Connect with me on social media:
 
 ## Get in Touch
 
-I'm always open to work together or just a friendly chat. Feel free to reach out:
+I'm always open to work together or just to chat. Feel free to reach out here:
 
 - **Email:** [jasperlp.stoeber@gmail.com](mailto:jasperlp.stoeber@gmail.com)
-- **Website:** [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
 
 #
 <a href="https://www.buymeacoffee.com/jasperlpstc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
