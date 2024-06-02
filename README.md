@@ -8,14 +8,7 @@ I'm a frontend developer passionate about crafting beautiful and functional web 
 - **Frameworks:** Angular, Bootstrap
 - **Design Tools:** Figma
 - **Other:** currently learning Flutter
-
-## Portfolio
-
-Check out my Portfolio (WIP):
-
-- [jakobstoeber.vercel.app](https://jakobstoeber.vercel.app/)
-- projects are not implemented yet
-
+  
 ## Social
 
 Connect with me on social media:
