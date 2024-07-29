@@ -4,10 +4,10 @@ I'm a frontend developer passionate about crafting beautiful and functional web 
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Java, Python
-- **Frameworks:** Angular, Bootstrap
+- **Languages:** HTML, CSS, JavaScript, Python and Java
+- **Frameworks:** Bootstrap, TailwindCSS
 - **Design Tools:** Figma
-- **Other:** currently learning Flutter
+- **Other:** currently learning Flutter and Angular
   
 ## Social
 
