@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Jakob Stöber**
+# Hi there! 👋 I'm **Jakob**
 
 I'm a fullstack developer passionate about crafting beautiful and functional web experiences. Based in Koblenz, Germany, I specialize in HTML, CSS, and JavaScript, with knowledge in various frameworks. I'm also proficient in Python and Java, enabling me to create dynamic and versatile applications.
 
