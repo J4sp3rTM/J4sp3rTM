@@ -14,7 +14,6 @@ I'm a fullstack developer passionate about crafting beautiful and functional web
 Connect with me on social media:
 
 - **[LinkedIn](https://www.linkedin.com/in/jakob-stöber/)** (Professional Network)
-- **[Leetcode](https://leetcode.com/user0160qG/)** (Coding Practice)
 
 ## Get in Touch
 
