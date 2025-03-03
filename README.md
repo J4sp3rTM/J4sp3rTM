@@ -13,7 +13,7 @@ I'm a fullstack developer passionate about crafting beautiful and functional web
 
 Connect with me on social media:
 
-- **[LinkedIn](https://www.linkedin.com/in/jakob-stöber/)** (Professional Network)
+- **[LinkedIn](https://www.linkedin.com/in/jakobstöber/)** (Professional Network)
 
 ## Get in Touch
 
